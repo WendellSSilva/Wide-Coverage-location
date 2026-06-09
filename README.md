@@ -1,14 +1,27 @@
-<h1>Wide Coverage location</h1>
-<br>
-<br>
-<h2>Mais um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a> </h2>
+# 🌍 Wide Coverage Location
 
-<h2>Teconologias usadas</h2>
-<br>
+Landing page responsiva desenvolvida com HTML e CSS, focada em design moderno, experiência do usuário e adaptação para diferentes dispositivos.
 
-- HTML
-- CSS
-  
-<br>
+## 🚀 Tecnologias Utilizadas
 
-<img src="https://github.com/WendellSSilva/CSS/blob/main/Wide%20Coverage%20Location.png?raw=true"/>
+* HTML5
+* CSS3
+* Responsividade
+
+## 📱 Sobre o Projeto
+
+Projeto desenvolvido com foco em:
+
+* Estruturação semântica com HTML
+* Estilização moderna com CSS
+* Layout responsivo para desktop e mobile
+* Boas práticas de desenvolvimento Front-end
+
+## 💻 Preview do Projeto
+
+<img src="https://github.com/WendellSSilva/Wide-Coverage-location/blob/main/Wide%20Coverage%20Location.png?raw=true" />
+
+## 🔗 Projeto
+
+Repositório:
+https://github.com/WendellSSilva/Wide-Coverage-location
